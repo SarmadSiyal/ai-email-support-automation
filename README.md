@@ -34,11 +34,24 @@ The system reduces manual workload while ensuring safety through confidence thre
 - Structured audit tracking
 - Improved response speed
   
-## 🖼 Screenshots
+## 📸 Screenshots
+
+### 🧩 Workflow Architecture
 
 ![Workflow Architecture](screenshots/workflow-architecture.png)
+
+<br>
+
+### 🔔 Slack Alert Example
+
 ![Slack Alert Example](screenshots/slack-alert.png)
+
+<br>
+
+### 📄 Logging System (Google Sheets)
+
 ![Logging Sheet](screenshots/logging-sheet.png)
+
 
 ## 📂 Workflow File
 
