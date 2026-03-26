@@ -48,13 +48,22 @@ The system reduces manual workload while ensuring safety through confidence thre
 
 - To use:
 
-- 1. Download JSON file
-- 2. Follow Setup Instructions
+1. Download JSON file
+2. Follow Setup Instructions
    
 ## ⚙ Setup Instructions
-- Import workflow blueprint into Make.com
-- Add Gmail connection
-- Add Groq API key
-- Configure Slack webhook
-- Connect Google Sheets logging
-- Run scenario
+1. Import workflow blueprint into Make.com
+2. Add Gmail connection
+3. Add Groq API key
+4. Configure Slack webhook
+5. Connect Google Sheets logging
+6. Run scenario
+
+## 🛠 Tech Stack
+
+- **Automation Platform:** Make.com  
+- **Email Service:** Gmail API  
+- **LLM Model:** Groq (LLaMA 3)  
+- **Logging System:** Google Sheets  
+- **Notifications:** Slack  
+- **Data Handling:** JSON Structured Parsing  
