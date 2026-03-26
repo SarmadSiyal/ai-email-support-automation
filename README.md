@@ -21,19 +21,19 @@ The system reduces manual workload while ensuring safety through confidence thre
 
 ## 🛠 Tech Stack
 
-- Make.com
-- Gmail API
-- Groq (LLaMA 3)
-- Google Sheets (CRM Logging)
-- Slack
-- JSON Structured Parsing
+- **Automation Platform:** Make.com  
+- **Email Service:** Gmail API  
+- **LLM Model:** Groq (LLaMA 3)  
+- **Logging System:** Google Sheets  
+- **Notifications:** Slack  
+- **Data Handling:** JSON Structured Parsing  
   
 ## 📊 Business Impact
 - 70–80% reduction in manual email handling
 - Immediate escalation of urgent cases
 - Structured audit tracking
 - Improved response speed
-- 
+  
 ## 🖼 Screenshots
 
 ![Workflow Architecture](screenshots/workflow-architecture.png)
@@ -59,11 +59,3 @@ The system reduces manual workload while ensuring safety through confidence thre
 5. Connect Google Sheets logging
 6. Run scenario
 
-## 🛠 Tech Stack
-
-- **Automation Platform:** Make.com  
-- **Email Service:** Gmail API  
-- **LLM Model:** Groq (LLaMA 3)  
-- **Logging System:** Google Sheets  
-- **Notifications:** Slack  
-- **Data Handling:** JSON Structured Parsing  
