@@ -37,6 +37,17 @@ Improved response speed
 ![Slack Alert Example](screenshots/slack-alert.png)
 ![Logging Sheet](screenshots/logging-sheet.png)
 
+## 📂 Workflow File
+
+The exported automation blueprint is available inside:
+
+workflow/AI-Powered Smart Email Customer Support & Escalation System.json
+
+To use:
+
+1. Download JSON file
+2. Follow Setup Instructions
+   
 ⚙ Setup Instructions
 Import workflow blueprint into Make.com
 Add Gmail connection
